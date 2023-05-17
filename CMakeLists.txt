@@ -12,6 +12,8 @@ set(CMAKE_CXX_COMPILER "g++.exe")
 # 将源码文件添加到 SROUCE 变量中
 set(SOURCES
     src/main.cpp
+    src/List.cpp
+    src/Node.cpp
 )
 
 # 设置 include 目录
