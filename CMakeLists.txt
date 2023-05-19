@@ -15,7 +15,6 @@ set(SOURCES
     src/List.cpp
     src/Node.cpp
     src/Course.cpp
-    src/CourseID.cpp
     src/Student.cpp
     src/Teacher.cpp
     src/User.cpp
