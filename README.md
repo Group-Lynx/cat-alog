@@ -28,6 +28,7 @@
     - [首次运行](#首次运行)
     - [使用已构建好的数据库](#使用已构建好的数据库)
     - [模拟数据被污染](#模拟数据被污染)
+  - [引用](#引用)
 
 ## 项目结构
 
@@ -204,4 +205,6 @@ exit    - 退出程序
 
 ## 引用
 
-- 
+- https://github.com/Saplyn/cattail/blob/main/include/command/CommandTree.h
+- https://github.com/Saplyn/cattail/blob/main/include/utility/ValidString.h
+
