@@ -1,0 +1,43 @@
+user create -arg 1 20220001 stu20220001
+user create -arg 1 20220002 stu20220002
+user create -arg 1 20220003 stu20220003
+user create -arg 1 20220004 stu20220004
+user create -arg 1 20220005 stu20220005
+user create -arg 1 20220006 stu20220006
+user create -arg 1 20220007 stu20220007
+user create -arg 1 20220008 stu20220008
+user create -arg 1 20220009 stu20220009
+user create -arg 1 20220010 stu20220010
+user create -arg 1 20220011 stu20220011
+user create -arg 1 20220012 stu20220012
+user create -arg 1 20220013 stu20220013
+user create -arg 1 20220014 stu20220014
+user create -arg 1 20220015 stu20220015
+user create -arg 1 20220016 stu20220016
+user create -arg 1 20220017 stu20220017
+user create -arg 1 20220018 stu20220018
+user create -arg 1 20220019 stu20220019
+user create -arg 1 20220020 stu20220020
+user create -arg 2 20170001 tch20170001
+user create -arg 2 20170002 tch20170002
+user create -arg 2 20170003 tch20170003
+user create -arg 2 20170004 tch20170004
+user create -arg 2 20170005 tch20170005
+course create -arg 220101 15 20170001 how to bark
+course enroll -arg 220101 20220001
+course enroll -arg 220101 20220002
+course enroll -arg 220101 20220003
+course enroll -arg 220101 20220004
+course enroll -arg 220101 20220005
+course enroll -arg 220101 20220006
+course enroll -arg 220101 20220007
+course enroll -arg 220101 20220008
+course enroll -arg 220101 20220009
+course enroll -arg 220101 20220010
+course enroll -arg 220101 20220011
+course enroll -arg 220101 20220012
+course enroll -arg 220101 20220013
+course enroll -arg 220101 20220014
+course enroll -arg 220101 20220015
+course enroll -arg 220101 20220016
+course enroll -arg 220101 20220017

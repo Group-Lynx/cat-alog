@@ -1,0 +1,51 @@
+       catalog, version 1.0.0
+    The C Programming Assignment
+ __________________________________
+|                                  |
+|   __  __  _|_  __  |   __   __   |
+|  /   /  |  |  /  | |  /  \ /  |  |
+|  \__ \_/|  |/ \_/| |/ \__/ \_/|  |
+|                             __/  |
+|__________________________________|
+
+  type `help` for help information
+
+++++----++++----++++----++++----++++
+
+         猫记选课 版本 1.0.0
+           C 程序设计大作业
+ __________________________________
+|                                  |
+|   __  __  _|_  __  |   __   __   |
+|  /   /  |  |  /  | |  /  \ /  |  |
+|  \__ \_/|  |/ \_/| |/ \__/ \_/|  |
+|                             __/  |
+|__________________________________|
+
+        输入 `help` 以获取帮助
+
+ ________
+|        |\
+|     ___|_\
+|  _______  |
+|  _______  |
+| __        |
+ /  /_______|
+ \__________|
+
+
+ __________
+|         |\    name: catalog
+| catalog |_\   version: 1.0.0 alpha
+| __        |   info: c programming assignment
+ /  /_______|   theme: course management
+ \__________|   algorithm: linked list, file handle
+
+
+ ___________
+|           |   name: catalog
+|  catalog  |   version: 1.0.0 alpha
+| __        |   info: c programming assignment
+ /  /_______|   theme: course management
+ \__________|   algorithm: linked list, file handle
+
